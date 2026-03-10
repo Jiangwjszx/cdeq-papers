@@ -45,12 +45,12 @@
 - 四、CDEQ全球编码宪章，CDEQ Global Coding Charter，
 - Trusted Timestamp:  TSA-01-20260308577343292，Version: V3.8-FINAL
 
- -- 
+  -- 
 
 - 五、CDEQ时间宪章，CDEQ Time Charter，
 - Trusted Timestamp:  TSA-01-20260308577021982，Version: V3.0-FINAL
 
- -- 
+  -- 
 
 - 六、CDEQ权力宪章，CDEQ Governance Charter，
 - Trusted Timestamp:  TSA-01-20260307550822631，Version: V1.0-FUSED
