@@ -190,7 +190,7 @@ Issued by UniTrust TimeStamp Authority
 ### The six foundational charters serve as the unique verification code of originality. They are the cat at the door — only the true owner knows its name. No counterfeit can pass the check.
  
 ### This is not a warning. This is a blade.
-If you reach for the fruit, expect to lose the hand.
+### If you reach for the fruit, expect to lose the hand.
 
 
 ## 重要声明 WARNING
