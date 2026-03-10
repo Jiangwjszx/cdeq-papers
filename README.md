@@ -33,6 +33,24 @@ The six foundational charters serve as the unique verification code of originali
 This is not a warning. This is a blade.
 If you reach for the fruit, expect to lose the hand.
 
+##重要声明 WARNING
+ 
+本仓库所有 CDEQ & QCDEQ 框架论文、文档、六份宪章，
+均已使用 中国法院认可的付费 TSA 可信时间戳 进行固化存证。
+文件创作时间、内容、版本具有法律效力，受中国司法认可。
+ 
+任何单位、个人不得以任何形式：
+- 抄袭、洗稿、换皮、改头换面
+- 拿去申报项目、申报专利、申报职称、评定教授
+- 隐去来源、篡改时间、冒充原创
+ 
+违者属于 学术不端 + 知识产权侵权 + 司法证据实锤，
+本人将永久保留曝光、投诉、起诉、追责到底的权利。
+ 
+CDEQ 体系原创成果，谁碰谁违法，谁摘谁翻车。
+ 
+望君自重，切勿以身试法。
+
 Author: Jiang Wenjia (Shenzhen, China)
 ORCID: 0009-0000-3850-7286
 
