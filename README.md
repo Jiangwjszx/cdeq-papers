@@ -34,6 +34,66 @@
 - 六、CDEQ权力宪章，CDEQ Governance Charter，
 - Trusted Timestamp:  TSA-01-20260307550822631，Version: V1.0-FUSED
 
+## CDEQ Series DOI & Unitrust TimeStamp
+CDEQ V1.0. 
+DOI: Zenodo. 10.5281/zenodo.18660808
+Trusted Timestamp: TSA-01-20260216384897861
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V1.1 
+DOI: Zenodo. 10.5281/zenodo.18927653
+Trusted Timestamp: TSA-01-20260310601956345
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V1.2 
+DOI: Zenodo. 10.5281/zenodo.18939385
+Trusted Timestamp: TSA-01-20260310614516761
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V2.0. 
+DOI: Zenodo. 10.5281/zenodo.18714537
+Trusted Timestamp: Trusted Timestamp: TSA-01-20260220398439858
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V3.0. 
+DOI: Zenodo. 10.5281/zenodo.18721637
+Trusted Timestamp: TSA-01-20260221401196622
+
+CDEQ V3.5. 
+DOI: Zenodo. 10.5281/zenodo.18733057
+Trusted Timestamp: TSA-01-20260222406988841
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V5.0. 
+DOI: Zenodo. 10.5281/zenodo.18745360
+Trusted Timestamp: TSA-01-20260223412378960
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V6.0. 
+DOI: Zenodo. 10.5281/zenodo.18795335
+Trusted Timestamp: TSA-01-20260228470014932
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V7.0. 
+DOI: Zenodo. 10.5281/zenodo.18809836
+Trusted Timestamp: TSA-01-20260228459918496
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V8.0. 
+DOI: Zenodo. 10.5281/zenodo.18817718
+Trusted Timestamp: TSA-01-20260301471054397
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V9.0 
+DOI: Zenodo. 10.5281/zenodo.18840407
+Trusted Timestamp: TSA-01-20260303492451107
+Issued by UniTrust TimeStamp Authority
+
+CDEQ V10.0 
+DOI: Zenodo. 10.5281/zenodo.18921995
+Trusted Timestamp: TSA-01-20260309590288827
+Issued by UniTrust TimeStamp Authority
+
 ## Intellectual Property Statement
  
 All theoretical frameworks, formulas, algorithms, codes, and structural designs in this paper are the sole and original intellectual property of Jiang Wenjia. The complete manuscript has been legally registered and certified with a trusted TSA timestamp prior to submission. Any unauthorized use, plagiarism, misappropriation, or authorship falsification will result in immediate and full legal action.
