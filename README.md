@@ -55,7 +55,7 @@ Trusted Timestamp: TSA-01-20260216384897861
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V1.1
 
@@ -65,7 +65,7 @@ Trusted Timestamp: TSA-01-20260310601956345
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V1.2
 
@@ -75,7 +75,7 @@ Trusted Timestamp: TSA-01-20260310614516761
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V2.0
 
@@ -85,7 +85,7 @@ Trusted Timestamp: TSA-01-20260220398439858
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V3.0
 
@@ -93,7 +93,7 @@ DOI: Zenodo. 10.5281/zenodo.18721637
 
 Trusted Timestamp: TSA-01-20260221401196622
 
-
+--
  
 CDEQ V3.5
 
@@ -103,7 +103,7 @@ Trusted Timestamp: TSA-01-20260222406988841
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V5.0
 
@@ -113,7 +113,7 @@ Trusted Timestamp: TSA-01-20260223412378960
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V6.0
 
@@ -123,7 +123,7 @@ Trusted Timestamp: TSA-01-20260228470014932
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V7.0
 
@@ -133,7 +133,7 @@ Trusted Timestamp: TSA-01-20260228459918496
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V8.0
 
@@ -143,7 +143,7 @@ Trusted Timestamp: TSA-01-20260301471054397
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V9.0
 
@@ -153,7 +153,7 @@ Trusted Timestamp: TSA-01-20260303492451107
 
 Issued by UniTrust TimeStamp Authority
 
-
+--
  
 CDEQ V10.0
 
