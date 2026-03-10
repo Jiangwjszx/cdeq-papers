@@ -6,19 +6,19 @@
 
   中文全称：跨领域赛博动态平衡调控框架
 
-  -- 
+  --- 
 
 - PCTT-CW：Penta-Cyclic-Clockwise-Topological-Theorem
 
   定理一 中文全称：五阶顺时针循环拓扑定理
 
-  --
+  ---
 
 - CENHE-LEX：Central-Holding-Nonary-Constraint-Execution-Theorem
 
   定理二 中文全称：九域约束中心持衡定理
 
-  --
+  ---
 
 - GCVT-10：Global-Convergence-Validation-Theorem
 
@@ -30,27 +30,27 @@
 - 一、CDEQ框架最高纲领，CDEQ Foundational Charter，
 - Trusted Timestamp:  TSA-01-20260309579843370，Version: V3.0-FINAL
 
-  -- 
+  --- 
 
 - 二、CDEQ数学宪章，CDEQ Mathematical Charter，
 - Trusted Timestamp:  TSA-01-20260308577700362，Version: V3.2-FINAL
 
-  -- 
+  --- 
 
 - 三、CDEQ框架工程宪章，CDEQ Engineering Charter，
 - Trusted Timestamp:  TSA-01-20260308578910312，Version: V3.9-FINAL
 
-  -- 
+  --- 
 
 - 四、CDEQ全球编码宪章，CDEQ Global Coding Charter，
 - Trusted Timestamp:  TSA-01-20260308577343292，Version: V3.8-FINAL
 
-  -- 
+  --- 
 
 - 五、CDEQ时间宪章，CDEQ Time Charter，
 - Trusted Timestamp:  TSA-01-20260308577021982，Version: V3.0-FINAL
 
-  -- 
+  --- 
 
 - 六、CDEQ权力宪章，CDEQ Governance Charter，
 - Trusted Timestamp:  TSA-01-20260307550822631，Version: V1.0-FUSED
@@ -65,7 +65,7 @@ Trusted Timestamp: TSA-01-20260216384897861
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V1.1
 
@@ -75,7 +75,7 @@ Trusted Timestamp: TSA-01-20260310601956345
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V1.2
 
@@ -85,7 +85,7 @@ Trusted Timestamp: TSA-01-20260310614516761
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V2.0
 
@@ -95,7 +95,7 @@ Trusted Timestamp: TSA-01-20260220398439858
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V3.0
 
@@ -103,7 +103,7 @@ DOI: Zenodo. 10.5281/zenodo.18721637
 
 Trusted Timestamp: TSA-01-20260221401196622
 
---
+---
  
 CDEQ V3.5
 
@@ -113,7 +113,7 @@ Trusted Timestamp: TSA-01-20260222406988841
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V5.0
 
@@ -123,7 +123,7 @@ Trusted Timestamp: TSA-01-20260223412378960
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V6.0
 
@@ -133,7 +133,7 @@ Trusted Timestamp: TSA-01-20260228470014932
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V7.0
 
@@ -143,7 +143,7 @@ Trusted Timestamp: TSA-01-20260228459918496
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V8.0
 
@@ -153,7 +153,7 @@ Trusted Timestamp: TSA-01-20260301471054397
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V9.0
 
@@ -163,7 +163,7 @@ Trusted Timestamp: TSA-01-20260303492451107
 
 Issued by UniTrust TimeStamp Authority
 
---
+---
  
 CDEQ V10.0
 
