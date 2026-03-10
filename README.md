@@ -5,16 +5,19 @@
 - CDEQ：Cross-Domain-Cyber-Dynamic-Equilibrium-Regulation-Framework
 
   中文全称：跨领域赛博动态平衡调控框架
+
   
 
 - PCTT-CW：Penta-Cyclic-Clockwise-Topological-Theorem
 
   中文全称：五阶顺时针循环拓扑定理
+
   
 
 - CENHE-LEX：Central-Holding-Nonary-Constraint-Execution-Theorem
 
    中文全称：九域约束中心持衡定理
+
   
 
 - GCVT-10：Global-Convergence-Validation-Theorem
