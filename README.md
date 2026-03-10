@@ -20,7 +20,7 @@ CDEQ六宪章官方定名与时间戳
 - 五、CDEQ时间宪章，CDEQ Time Charter，时间戳 TSA-01-20260308577021982，版本 V3.0-FINAL
 - 六、CDEQ权力宪章，CDEQ Governance Charter，时间戳 TSA-01-20260307550822631，版本 V1.0-FUSED
 
-  Intellectual Property Statement
+Intellectual Property Statement
  
 All theoretical frameworks, formulas, algorithms, codes, and structural designs in this paper are the sole and original intellectual property of Jiang Wenjia. The complete manuscript has been legally registered and certified with a trusted TSA timestamp prior to submission. Any unauthorized use, plagiarism, misappropriation, or authorship falsification will result in immediate and full legal action.
  
