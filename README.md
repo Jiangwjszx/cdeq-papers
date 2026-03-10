@@ -27,37 +27,37 @@
 
 ## CDEQ Six Charters – Official Names & TSA Timestamps
 
-- 一、CDEQ框架最高纲领，CDEQ Foundational Charter，
+- ### 1、CDEQ框架最高纲领，CDEQ Foundational Charter，
 - Trusted Timestamp:  TSA-01-20260309579843370，Version: V3.0-FINAL
 
   --- 
 
-- 二、CDEQ数学宪章，CDEQ Mathematical Charter，
+- ### 2、CDEQ数学宪章，CDEQ Mathematical Charter，
 - Trusted Timestamp:  TSA-01-20260308577700362，Version: V3.2-FINAL
 
   --- 
 
-- 三、CDEQ框架工程宪章，CDEQ Engineering Charter，
+- ### 3、CDEQ框架工程宪章，CDEQ Engineering Charter，
 - Trusted Timestamp:  TSA-01-20260308578910312，Version: V3.9-FINAL
 
   --- 
 
-- 四、CDEQ全球编码宪章，CDEQ Global Coding Charter，
+- ### 4、CDEQ全球编码宪章，CDEQ Global Coding Charter，
 - Trusted Timestamp:  TSA-01-20260308577343292，Version: V3.8-FINAL
 
   --- 
 
-- 五、CDEQ时间宪章，CDEQ Time Charter，
+- ### 5、CDEQ时间宪章，CDEQ Time Charter，
 - Trusted Timestamp:  TSA-01-20260308577021982，Version: V3.0-FINAL
 
   --- 
 
-- 六、CDEQ权力宪章，CDEQ Governance Charter，
+- ### 6、CDEQ权力宪章，CDEQ Governance Charter，
 - Trusted Timestamp:  TSA-01-20260307550822631，Version: V1.0-FUSED
 
 ## CDEQ Series Zenodo DOIs & Unitrust TimeStamp
 
-CDEQ V1.0
+### CDEQ V1.0
 
 DOI: Zenodo. 10.5281/zenodo.18660808
 
