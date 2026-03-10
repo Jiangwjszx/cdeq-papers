@@ -22,7 +22,7 @@
 
 - GCVT-10：Global-Convergence-Validation-Theorem
 
- 定理三 中文全称：全局收敛验证定理
+   定理三 中文全称：全局收敛验证定理
   
 
 ## CDEQ Six Charters – Official Names & TSA Timestamps
