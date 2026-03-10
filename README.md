@@ -45,7 +45,7 @@ This is not a warning. This is a blade.
 If you reach for the fruit, expect to lose the hand.
 
 
-##重要声明 WARNING
+## 重要声明 WARNING
  
 本仓库所有 CDEQ & QCDEQ 框架论文、文档、六份宪章，
 均已使用 中国法院认可的付费 TSA 可信时间戳 进行固化存证。
