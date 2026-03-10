@@ -181,15 +181,15 @@ Issued by UniTrust TimeStamp Authority
 
 ## Intellectual Property Statement
  
-All theoretical frameworks, formulas, algorithms, codes, and structural designs in this paper are the sole and original intellectual property of Jiang Wenjia. The complete manuscript has been legally registered and certified with a trusted TSA timestamp prior to submission. Any unauthorized use, plagiarism, misappropriation, or authorship falsification will result in immediate and full legal action.
+### All theoretical frameworks, formulas, algorithms, codes, and structural designs in this paper are the sole and original intellectual property of Jiang Wenjia. The complete manuscript has been legally registered and certified with a trusted TSA timestamp prior to submission. Any unauthorized use, plagiarism, misappropriation, or authorship falsification will result in immediate and full legal action.
  
-This paper is the foundational charter of the CDEQ framework. All subsequent versions and derivative works must cite this original source.
+### This paper is the foundational charter of the CDEQ framework. All subsequent versions and derivative works must cite this original source.
  
-A complete chain of evidence, including six foundational charters with trusted timestamps, predates this paper and confirms its sole authorship and originality. Any form of plagiarism or misappropriation can be easily identified and verified.
+### A complete chain of evidence, including six foundational charters with trusted timestamps, predates this paper and confirms its sole authorship and originality. Any form of plagiarism or misappropriation can be easily identified and verified.
  
-The six foundational charters serve as the unique verification code of originality. They are the cat at the door — only the true owner knows its name. No counterfeit can pass the check.
+### The six foundational charters serve as the unique verification code of originality. They are the cat at the door — only the true owner knows its name. No counterfeit can pass the check.
  
-This is not a warning. This is a blade.
+### This is not a warning. This is a blade.
 If you reach for the fruit, expect to lose the hand.
 
 
