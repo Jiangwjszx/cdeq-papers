@@ -67,7 +67,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V1.1
+### CDEQ V1.1
 
 DOI: Zenodo. 10.5281/zenodo.18927653
 
@@ -77,7 +77,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V1.2
+### CDEQ V1.2
 
 DOI: Zenodo. 10.5281/zenodo.18939385
 
@@ -87,7 +87,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V2.0
+### CDEQ V2.0
 
 DOI: Zenodo. 10.5281/zenodo.18714537
 
@@ -97,7 +97,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V3.0
+### CDEQ V3.0
 
 DOI: Zenodo. 10.5281/zenodo.18721637
 
@@ -105,7 +105,7 @@ Trusted Timestamp: TSA-01-20260221401196622
 
 ---
  
-CDEQ V3.5
+### CDEQ V3.5
 
 DOI: Zenodo. 10.5281/zenodo.18733057
 
@@ -115,7 +115,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V5.0
+### CDEQ V5.0
 
 DOI: Zenodo. 10.5281/zenodo.18745360
 
@@ -125,7 +125,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V6.0
+### CDEQ V6.0
 
 DOI: Zenodo. 10.5281/zenodo.18795335
 
@@ -135,7 +135,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V7.0
+### CDEQ V7.0
 
 DOI: Zenodo. 10.5281/zenodo.18809836
 
@@ -145,7 +145,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V8.0
+### CDEQ V8.0
 
 DOI: Zenodo. 10.5281/zenodo.18817718
 
@@ -155,7 +155,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V9.0
+### CDEQ V9.0
 
 DOI: Zenodo. 10.5281/zenodo.18840407
 
@@ -165,7 +165,7 @@ Issued by UniTrust TimeStamp Authority
 
 ---
  
-CDEQ V10.0
+### CDEQ V10.0
 
 DOI: Zenodo. 10.5281/zenodo.18921995
 
