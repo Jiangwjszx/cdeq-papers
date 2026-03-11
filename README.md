@@ -173,9 +173,9 @@ Issued by UniTrust TimeStamp Authority
  
 ### CDEQ V10.0
 
-DOI: Zenodo. 10.5281/zenodo.18921995
+DOI: Zenodo. 10.5281/zenodo.18965227
 
-Trusted Timestamp: TSA-01-20260309590288827
+Trusted Timestamp: TSA-01-20260312644066876
 
 Issued by UniTrust TimeStamp Authority
 
